@@ -1,5 +1,5 @@
 // todo 1
-interface User {
+export interface User {
     username: string,
     password: string,
 }
